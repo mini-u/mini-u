@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**mini-u/mini-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on
+  - regional economic impact analysis using credit card and telecom big data
+  - visitor behavior modeling for forest trails through clustering and forecasting.
 
-Here are some ideas to get you started:
+🌱 My current interests include bioinformatics, environmental data analysis, and game log analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 email: sungminryu127@gmail.com
+⚡ Fun fact: Moving to Denmark in 2025 — new data, new culture, new adventures!
+
+---
+
+data stack
