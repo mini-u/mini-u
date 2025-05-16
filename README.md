@@ -3,6 +3,7 @@
 🔭 **I’m currently working on:**
 - Regional economic impact analysis using credit card and telecom big data  
 - Visitor behavior modeling for forest trails through clustering and forecasting
+- Text mining of National Forest Trail content using social media data
 
 🌱 **My current interests include:**  
 Bioinformatics, environmental data analysis, and game log analytics
