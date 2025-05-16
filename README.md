@@ -26,6 +26,4 @@ Editors
 
 Tools
 
-<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
