@@ -6,7 +6,7 @@
 - Text mining of National Forest Trail content using social media data
 
 🌱 **My current interests include:**  
-Bioinformatics, environmental data analysis, and game log analytics
+Bioinformatics, environmental data analysis
 
 📫 **Email:** sungminryu127@gmail.com
 
